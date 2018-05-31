@@ -1,0 +1,31 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+body {
+    background-color: #494949;
+    color: #fff;
+}
+
+img {
+    width: 74%;
+    border: 10px solid #dd1c1c;
+}
+
+p {
+    font-size: 0.5em;
+    color: black;
+}
+
+header {
+    font-size: 0.8em;
+}
+
+.song {
+    width: 50%;
+    background-color: coral;
+    font-family: 'Lato',
+    sans-serif;
+    }
